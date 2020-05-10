@@ -1,15 +1,10 @@
 
 
-# Project 2 - Predicting house price using regression analysis 
+Predicting house price using regression analysis 
 
 
 In this project, we analyze a dataset of House Prices , using Jupyter Notebook Python .. external libraries used are NumPy, Pandas, Seaborn, Matplotlib and sklearn. 
 
-
-
-__Team name :__
-
- * AAH2
 
 __Team Members:__
 
@@ -18,6 +13,7 @@ __Team Members:__
  * Abrar Safar
 
  * Huda Alghamdi
+
 
 __Score:__
 
